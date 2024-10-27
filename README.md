@@ -6,5 +6,14 @@
      [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/0-1-deep-neural-networks-via-block-coordinate/3d-instance-segmentation-on-scannetv2)](https://paperswithcode.com/sota/3d-instance-segmentation-on-scannetv2?p=0-1-deep-neural-networks-via-block-coordinate)
      <details>
         <summary>leaderboard screenshot</summary>
-        <img src="https://github.com/filaPro/oneformer3d/assets/6030962/e8890fd9-336d-4851-85cb-06fbbb60abe3" alt="ScanNet leaderboard"/>
+        <p align="center">
+        <img src="assets/map.png" width="97%"/>
+        </p>
+        
+        <p align="center">
+        <img src="assets/ap50.png" width="97%"/>
+        </p>
+        <p align="center">
+        <img src="assets/ap25.png" width="97%"/>
+        </p>
      </details>
